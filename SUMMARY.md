@@ -5,4 +5,5 @@
 * Chapter 2 - Axis
 * Chapter 3 - Animation
 * Chapter 2 - selectAll
+* Chapter 3 - Data Binding
 
