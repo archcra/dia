@@ -1,6 +1,7 @@
 # Summary
 
 * Preface
+   * What can D3 do?
 * Chapter 1 - Basic shapes
 * Chapter 4 - Axis
 * Chapter 5 - Animation
